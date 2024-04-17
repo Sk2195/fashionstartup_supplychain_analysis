@@ -37,7 +37,7 @@
 
 
 # Usage
- - To clone this repository: 
+ - To clone this repository: https://github.com/Sk2195/fashionstartup_supplychain_analysis.git
 
 
 
